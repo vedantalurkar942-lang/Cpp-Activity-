@@ -1,8 +1,8 @@
 # OOP C++ Programming Activity
 
 ## Student Details
-- **Student Name:** Yash Gadhave
-- **PRN:** AD2617
+- **Student Name:** Vedant Sadanand Alurkar
+- **PRN:** AD2652
 - **Class/Division:** Sy-F
 - **Course Name:** Object-Oriented Programming (OOP)
 - **Course Code:** ADPC303
